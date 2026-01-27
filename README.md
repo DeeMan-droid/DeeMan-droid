@@ -1,17 +1,16 @@
 # Hi, I'm Owadokun Oluwadamola Daniel 👋
 
 I’m a Computer Science student with hands-on experience in IT support, Windows
-troubleshooting, networking fundamentals and software engineering. I enjoy diagnosing technical
-problems, documenting solutions, and continuously building practical skills
-across IT, cybersecurity, and software development.
-
+troubleshooting, networking fundamentals and software engineering projects. I enjoy diagnosing technical
+problems, documenting solutions, and and building practical systems that combine strong fundamentals 
+with real-world use cases across IT and software development.
 ---
 
 ## 🔧 Technical Interests
 - IT Support & Systems Administration
 - Networking Fundamentals (TCP/IP, DNS, DHCP)
 - Cybersecurity Foundations
-- Python, Java Programming & Automation
+- Java & Python Programming and Automation
 
 ---
 
@@ -24,10 +23,10 @@ environment using standard TCP/IP diagnostic tools.
 **Skills:** Windows 10, TCP/IP, DNS, Virtual Machines, Technical Documentation  
 🔗 https://github.com/DeeMan-droid/windows-10-network-troubleshooting
 
-### Bank Account Management System Project (Java)
+### 🏦 Bank Account Management System Project (Java)
 Developed a menu-driven banking system with checking/loan accounts, customer records, and transaction operations using inheritance and ArrayLists.
 
-**Skills:** Java OOP
+**Skills:** Java, OOP, Data Structures (ArrayList), Input Validation
 🔗 https://github.com/DeeMan-droid/bank-account-management-system
 
 ---
@@ -57,4 +56,4 @@ Developed a menu-driven banking system with checking/loan accounts, customer rec
 ---
 
 ⭐ I’m actively building hands-on projects and open to internships and
-entry-level roles in IT support, cybersecurity, software engineering, and technical operations.
+entry-level roles in IT support, software engineering, cybersecurity.
