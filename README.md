@@ -27,7 +27,7 @@ environment using standard TCP/IP diagnostic tools.
 ### Bank Account Management System Project (Java)
 Developed a menu-driven banking system with checking/loan accounts, customer records, and transaction operations using inheritance and ArrayLists.
 
-**Skills:** Java OOP, Arrays, Static Variables
+**Skills:** Java OOP
 🔗 https://github.com/DeeMan-droid/bank-account-management-system
 
 ---
