@@ -4,7 +4,7 @@ I’m a Computer Science student with hands-on experience in IT support, Windows
 troubleshooting, networking fundamentals and software engineering projects. I enjoy diagnosing technical
 problems, documenting solutions, and and building practical systems that combine strong fundamentals 
 with real-world use cases across IT and software development.
----
+
 
 ## 🔧 Technical Interests
 - IT Support & Systems Administration
@@ -27,7 +27,7 @@ environment using standard TCP/IP diagnostic tools.
 Developed a menu-driven banking system with checking/loan accounts, customer records, and transaction operations using inheritance and ArrayLists.
 
 **Skills:** Java, OOP, Data Structures (ArrayList), Input Validation
-🔗 https://github.com/DeeMan-droid/bank-account-management-system
+- 🔗 https://github.com/DeeMan-droid/bank-account-management-system
 
 ---
 
