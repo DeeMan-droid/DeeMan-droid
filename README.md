@@ -1,7 +1,7 @@
 # Hi, I'm Owadokun Oluwadamola Daniel 👋
 
 I’m a Computer Science student with hands-on experience in IT support, Windows
-troubleshooting, and networking fundamentals. I enjoy diagnosing technical
+troubleshooting, networking fundamentals and software engineering. I enjoy diagnosing technical
 problems, documenting solutions, and continuously building practical skills
 across IT, cybersecurity, and software development.
 
@@ -11,7 +11,7 @@ across IT, cybersecurity, and software development.
 - IT Support & Systems Administration
 - Networking Fundamentals (TCP/IP, DNS, DHCP)
 - Cybersecurity Foundations
-- Python Programming & Automation
+- Python, Java Programming & Automation
 
 ---
 
