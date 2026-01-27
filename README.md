@@ -48,4 +48,4 @@ environment using standard TCP/IP diagnostic tools.
 ---
 
 ⭐ I’m actively building hands-on projects and open to internships and
-entry-level roles in IT support, cybersecurity, and technical operations.
+entry-level roles in IT support, cybersecurity, software engineering, and technical operations.
