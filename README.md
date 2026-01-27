@@ -29,6 +29,9 @@ environment using standard TCP/IP diagnostic tools.
 ## 📜 Certifications
 - CompTIA A+ (In Progress)
 - Supervised Machine Learning (Regression & Classification) — DeepLearning.AI
+- GOOGLE IT AUTOMATION WITH PYTHON PROFESSIONAL CERTIFICATE (Crash Course on Python )
+	
+
 
 ---
 
