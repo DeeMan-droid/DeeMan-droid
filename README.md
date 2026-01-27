@@ -24,6 +24,9 @@ environment using standard TCP/IP diagnostic tools.
 **Skills:** Windows 10, TCP/IP, DNS, Virtual Machines, Technical Documentation  
 🔗 https://github.com/DeeMan-droid/windows-10-network-troubleshooting
 
+### Bank Account Management System Project (Java)
+•	Developed a menu-driven banking system with checking/loan accounts, customer records, and transaction operations using inheritance and ArrayLists.
+
 ---
 
 ## 📜 Certifications
