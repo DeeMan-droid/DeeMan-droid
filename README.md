@@ -25,7 +25,10 @@ environment using standard TCP/IP diagnostic tools.
 🔗 https://github.com/DeeMan-droid/windows-10-network-troubleshooting
 
 ### Bank Account Management System Project (Java)
-•	Developed a menu-driven banking system with checking/loan accounts, customer records, and transaction operations using inheritance and ArrayLists.
+Developed a menu-driven banking system with checking/loan accounts, customer records, and transaction operations using inheritance and ArrayLists.
+
+**Skills:** Java OOP, Arrays, Static Variables
+🔗 https://github.com/DeeMan-droid/bank-account-management-system
 
 ---
 
