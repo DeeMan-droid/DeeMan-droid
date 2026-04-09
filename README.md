@@ -1,4 +1,4 @@
-# Hi, I'm Owadokun Oluwadamola Daniel 👋
+# Hi, I'm Oluwadamola Daniel Owadokun 👋
 
 I’m a Computer Science student with hands-on experience in IT support, Windows
 troubleshooting, networking fundamentals and software engineering projects. Skilled 
