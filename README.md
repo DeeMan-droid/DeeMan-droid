@@ -33,8 +33,6 @@ Developed a menu-driven banking system with checking/loan accounts, customer rec
 ---
 
 ## 📜 Certifications
-- CompTIA A+ (In Progress)
-- Supervised Machine Learning (Regression & Classification) — DeepLearning.AI
 - GOOGLE IT AUTOMATION WITH PYTHON PROFESSIONAL CERTIFICATE (Crash Course on Python )
 	
 
