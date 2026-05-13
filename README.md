@@ -1,15 +1,15 @@
 # Hi, I'm Oluwadamola Daniel Owadokun 👋
 
-I’m a Computer Science student with hands-on experience in IT support, Windows
-troubleshooting, networking fundamentals and software engineering projects. Skilled 
-in diagnosing technical issues, documenting solutions, and building practical systems 
-that apply core computer science concepts to real-world problems. Actively developing 
-skills in cybersecurity and system security.
+I am a Computer Science major at UT Dallas 
+specializing in bridging the gap between technical defense and data governance.  
+I leverage my programming background in Python and Java to automate workflows, 
+vulnerabilities and align technical systems with compliance frameworks.
 
 
 ## 🔧 Technical Interests
 - IT Support & Systems Administration
 - Networking Fundamentals (TCP/IP, DNS, DHCP)
+- Security Concepts (Access Control, Risk Analysis, NIST Framework, IAM, Network Security, Vulnerability Assessment)
 - Cybersecurity
 - Python Programming and Automation
 
@@ -33,18 +33,20 @@ Developed a menu-driven banking system with checking/loan accounts, customer rec
 ---
 
 ## 📜 Certifications
-- GOOGLE IT AUTOMATION WITH PYTHON PROFESSIONAL CERTIFICATE (Crash Course on Python )
+- GOOGLE IT AUTOMATION WITH PYTHON PROFESSIONAL CERTIFICATE (Crash Course on Python)
+- CompTIA A+ Coursework: Hardware, Operating Systems, Networking Fundamentals
+- Hands-on cybersecurity labs: TryHackMe, CompTIA Labs
 	
 
 
 ---
 
 ## 🛠️ Technical Skills
-- **Operating Systems:** Windows 10, macOS, Linux (basic)
+- **Operating Systems:** Windows, Linux (basic)
 - **Networking:** TCP/IP, DNS, DHCP, LAN/WAN, VPN, RDP
 - **IT Support:** Active Directory, remote desktop tools
 - **Programming:** Python, Java
-- **Tools:** Virtual box, Git/GitHub, Microsoft Office
+- **Tools:** Nmap, VirtualBox, Git, GitHub, TryHackMe, CompTIA Labs, Microsoft Office
 
 ---
 
@@ -55,4 +57,4 @@ Developed a menu-driven banking system with checking/loan accounts, customer rec
 ---
 
 ⭐ I’m actively building hands-on projects and open to internships and
-entry-level roles in IT support, software engineering, cybersecurity.
+entry-level roles in IT support, SOC Analyst, GRC.
