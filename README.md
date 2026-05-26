@@ -7,10 +7,9 @@ vulnerabilities and align technical systems with compliance frameworks.
 
 
 ## 🔧 Technical Interests
-- IT Support & Systems Administration
+- IT Support, GRC, SOC & Cloud
 - Networking Fundamentals (TCP/IP, DNS, DHCP)
-- Security Concepts (Access Control, Risk Analysis, NIST Framework, IAM, Network Security, Vulnerability Assessment)
-- Cybersecurity
+- Security Concepts (Access Control, Risk Analysis, NIST Framework, IAM, SIEM, Network Security, Vulnerability Assessment)
 - Python Programming and Automation
 
 ---
@@ -24,10 +23,11 @@ environment using standard TCP/IP diagnostic tools.
 **Skills:** Windows 10, TCP/IP, DNS, Virtual Machines, Technical Documentation  
 🔗 https://github.com/DeeMan-droid/windows-10-network-troubleshooting
 
-### 🏦 Bank Account Management System Project (Java)
-Developed a menu-driven banking system with checking/loan accounts, customer records, and transaction operations using inheritance and ArrayLists.
+### 🏦 Secure Banking Management System Project (Java, OOP)
+•	Engineered a console-based financial system applying Object-oriented Programming (OOP) concepts to enforce secure-by-design   architectures.
+•	Created centralized tracking parameters mapping to NIST SP 800-53 controls to simulate SIEM-ready transaction logging and audit trails.
 
-**Skills:** Java, OOP, Data Structures (ArrayList), Input Validation
+**Skills:** Java, OOP, Data Structures (ArrayList), Input Validation, NIST SP
 - 🔗 https://github.com/DeeMan-droid/bank-account-management-system
 
 ---
@@ -46,7 +46,7 @@ Developed a menu-driven banking system with checking/loan accounts, customer rec
 - **Networking:** TCP/IP, DNS, DHCP, LAN/WAN, VPN, RDP
 - **IT Support:** Active Directory, remote desktop tools
 - **Programming:** Python, Java
-- **Tools:** Nmap, VirtualBox, Git, GitHub, TryHackMe, CompTIA Labs, Microsoft Office
+- **Tools:** Nmap, Wireshark, VirtualBox, Git, GitHub, TryHackMe, CompTIA Labs, Microsoft Office
 
 ---
 
