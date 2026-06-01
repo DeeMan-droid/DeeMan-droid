@@ -9,7 +9,7 @@ vulnerabilities and align technical systems with compliance frameworks.
 ## 🔧 Technical Interests
 - IT Support, GRC, SOC & Cloud
 - Networking Fundamentals (TCP/IP, DNS, DHCP)
-- Security Concepts (Access Control, Risk Analysis, NIST Framework, IAM, SIEM, Network Security, Vulnerability Assessment)
+- Security Concepts (Access Control, Risk Analysis, NIST 800-171, IAM, SIEM, Network Security, Vulnerability Assessment)
 - Python Programming and Automation
 
 ---
@@ -34,7 +34,7 @@ environment using standard TCP/IP diagnostic tools.
 
 ## 📜 Certifications
 - GOOGLE IT AUTOMATION WITH PYTHON PROFESSIONAL CERTIFICATE (Crash Course on Python)
-- CompTIA A+ Coursework: Hardware, Operating Systems, Networking Fundamentals
+- CompTIA Security+ In Progress
 - Hands-on cybersecurity labs: TryHackMe, CompTIA Labs
 	
 
